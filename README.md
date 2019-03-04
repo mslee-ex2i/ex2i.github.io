@@ -1,1 +1,1 @@
-Welcom to EX2i HomePage
+Welcome to EX2i HomePage
