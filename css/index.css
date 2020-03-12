@@ -408,7 +408,10 @@ h2 {
 .button {
     clear: both; 
     max-width: 100%;
-    width:730px;
+    
+    /* 버튼 위치 패딩 값 */
+    width:370px;
+
     margin: 0 auto;
     margin-bottom: 80px;
     }  
